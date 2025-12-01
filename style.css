@@ -1,37 +1,32 @@
-/* Sets up a clean background color */
 body {
-    /* UPDATED FONT: A classic, elegant serif font */
     font-family: Georgia, 'Times New Roman', Times, serif; 
-    background-color: #f0f0f5; /* Light gray/off-white background */
-    color: #333; /* Dark gray text */
+    background-color: #d7d7f7; 
+    color: #000000; 
     padding: 20px;
     line-height: 1.6;
-    max-width: 900px; /* Center content in the middle */
+    max-width: 900px; 
     margin: 0 auto;
 }
 
-/* Styles for headers */
 h1, h2 {
-    /* UPDATED COLOR: Classic Navy Blue */
+    
     color: #000080; 
-    border-bottom: 2px solid #000080; /* Match the border color */
+    border-bottom: 2px solid #000080; 
     padding-bottom: 5px;
     margin-top: 30px;
 }
 
-/* Styles the images to sit side-by-side cleanly */
 img {
     max-width: 100px;
     height: auto;
-    border-radius: 8px; /* Slightly rounded corners */
-    margin: 5px 10px 5px 0; /* Space around images */
+    border-radius: 8px; 
+    margin: 5px 10px 5px 0; 
     vertical-align: middle;
 }
 
-/* Adds a bit of padding to the main content area */
 main {
     padding: 20px;
-    background-color: white; /* White box for content */
+    background-color: rgb(80, 53, 255); 
     border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
 }
