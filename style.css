@@ -1,7 +1,7 @@
 /* Sets up a clean background color */
 body {
-    /* UPDATED FONT: A more interesting, modern-casual font */
-    font-family: 'Roboto', sans-serif; 
+    /* UPDATED FONT: A classic, elegant serif font */
+    font-family: Georgia, 'Times New Roman', Times, serif; 
     background-color: #f0f0f5; /* Light gray/off-white background */
     color: #333; /* Dark gray text */
     padding: 20px;
@@ -12,9 +12,9 @@ body {
 
 /* Styles for headers */
 h1, h2 {
-    /* UPDATED COLOR: Darker, almost navy blue */
-    color: #001f3f; 
-    border-bottom: 2px solid #001f3f; /* Match the border color */
+    /* UPDATED COLOR: Classic Navy Blue */
+    color: #000080; 
+    border-bottom: 2px solid #000080; /* Match the border color */
     padding-bottom: 5px;
     margin-top: 30px;
 }
