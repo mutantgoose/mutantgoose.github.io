@@ -1,0 +1,35 @@
+/* Sets up a clean background color */
+body {
+    font-family: Arial, sans-serif; /* Use a readable font */
+    background-color: #f0f0f5; /* Light gray/off-white background */
+    color: #333; /* Dark gray text */
+    padding: 20px;
+    line-height: 1.6;
+    max-width: 900px; /* Center content in the middle */
+    margin: 0 auto;
+}
+
+/* Styles for headers */
+h1, h2 {
+    color: #007bff; /* A nice blue color for headers */
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 5px;
+    margin-top: 30px;
+}
+
+/* Styles the images to sit side-by-side cleanly */
+img {
+    max-width: 100px;
+    height: auto;
+    border-radius: 8px; /* Slightly rounded corners */
+    margin: 5px 10px 5px 0; /* Space around images */
+    vertical-align: middle;
+}
+
+/* Adds a bit of padding to the main content area */
+main {
+    padding: 20px;
+    background-color: white; /* White box for content */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
