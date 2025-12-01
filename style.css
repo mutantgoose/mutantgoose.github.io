@@ -1,6 +1,7 @@
 /* Sets up a clean background color */
 body {
-    font-family: Arial, sans-serif; /* Use a readable font */
+    /* UPDATED FONT: Uses a clean, modern font */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
     background-color: #f0f0f5; /* Light gray/off-white background */
     color: #333; /* Dark gray text */
     padding: 20px;
@@ -11,8 +12,9 @@ body {
 
 /* Styles for headers */
 h1, h2 {
-    color: #007bff; /* A nice blue color for headers */
-    border-bottom: 2px solid #007bff;
+    /* UPDATED COLOR: Darker, more professional blue */
+    color: #003366; 
+    border-bottom: 2px solid #003366; /* Match the border color */
     padding-bottom: 5px;
     margin-top: 30px;
 }
